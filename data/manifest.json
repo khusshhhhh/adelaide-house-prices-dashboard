@@ -1,0 +1,287 @@
+{
+  "resources": {
+    "4245a13e-a972-431c-b446-e1e11c951836": {
+      "name": "Metropolitan Median House Sales Q3 2026",
+      "file": "Q3_2026.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/4245a13e-a972-431c-b446-e1e11c951836/download/lsg_stats_2026_3q.xlsx",
+      "modified": "2026-10-14T00:25:03.202130"
+    },
+    "8428aa95-c9fd-4c56-946c-6aa316ba7bf7": {
+      "name": "Metropolitan Median House Sales Q2 2026",
+      "file": "Q2_2026.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/8428aa95-c9fd-4c56-946c-6aa316ba7bf7/download/lsg_stats_2026_2q.xlsx",
+      "modified": "2026-07-17T08:12:16.191169"
+    },
+    "3a05b4ad-2dfb-4ba6-984c-48676ea0add1": {
+      "name": "Metropolitan Median House Sales Q1 2026",
+      "file": "Q1_2026.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/3a05b4ad-2dfb-4ba6-984c-48676ea0add1/download/lsg_stats_2026_q1.xlsx",
+      "modified": "2026-07-22T04:41:47.810971"
+    },
+    "a619b176-454f-48e1-aa14-8b9f551491ae": {
+      "name": "Metropolitan Median House Sales Q4 2025",
+      "file": "Q4_2025.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/a619b176-454f-48e1-aa14-8b9f551491ae/download/lsg_stats_2025_q4.xlsx",
+      "modified": "2026-02-03T02:22:30.672923"
+    },
+    "cc293e5c-6dac-4c39-b5bb-ba24a5f9ff81": {
+      "name": "Metropolitan Median House Sales Q3 2025",
+      "file": "Q3_2025.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/cc293e5c-6dac-4c39-b5bb-ba24a5f9ff81/download/lsg_stats_2025_q3.xlsx",
+      "modified": "2025-10-16T05:18:37.577248"
+    },
+    "79d8de58-1b68-4125-a1cd-d116c49ae95f": {
+      "name": "Metropolitan Median House Sales Q2 2025",
+      "file": "Q2_2025.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/79d8de58-1b68-4125-a1cd-d116c49ae95f/download/lsg_stats_2025_q2.xlsx",
+      "modified": "2025-07-21T02:32:15.415319"
+    },
+    "d83bd5ec-e9f0-4e4b-b894-ff95217fb7de": {
+      "name": "Metropolitan Median House Sales Q1 2025",
+      "file": "Q1_2025.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/d83bd5ec-e9f0-4e4b-b894-ff95217fb7de/download/lsg_stats_2025_q1.xlsx",
+      "modified": "2025-04-15T05:41:44.006903"
+    },
+    "fe791d14-7e4e-4b3a-9f4a-b4bb0c2e080d": {
+      "name": "Metropolitan Median House Sales Q4 2024",
+      "file": "Q4_2024.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/fe791d14-7e4e-4b3a-9f4a-b4bb0c2e080d/download/lsg_stats_2024_q4.xlsx",
+      "modified": "2025-01-16T22:26:55.147216"
+    },
+    "2c9e295b-730a-40c3-8b6d-2d878438c4d1": {
+      "name": "Metropolitan Median House Sales Q3 2024",
+      "file": "Q3_2024.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/2c9e295b-730a-40c3-8b6d-2d878438c4d1/download/lsg_stats_2024_q3.xlsx",
+      "modified": "2024-10-17T01:36:51.830805"
+    },
+    "a4680b29-9615-4c2c-b61e-82cc9ab09ce1": {
+      "name": "Metropolitan Median House Sales Q2 2024",
+      "file": "Q2_2024.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/a4680b29-9615-4c2c-b61e-82cc9ab09ce1/download/lsg_stats_2024_q2.xlsx",
+      "modified": "2024-08-26T08:05:56.635551"
+    },
+    "ed2b7d8c-0776-4cdd-adb4-93cb91fe80c3": {
+      "name": "Metropolitan Median House Sales Q1 2024",
+      "file": "Q1_2024.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/ed2b7d8c-0776-4cdd-adb4-93cb91fe80c3/download/lsg_stats_2024_q1.xlsx",
+      "modified": "2024-04-10T03:33:49.133101"
+    },
+    "bb0b8c6d-eba9-428a-9c6f-84bdd4939ce5": {
+      "name": "Metropolitan Median House Sales Q4 2023",
+      "file": "Q4_2023.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/bb0b8c6d-eba9-428a-9c6f-84bdd4939ce5/download/lsg_stats_2023_q4.xlsx",
+      "modified": "2024-01-15T06:45:46.473804"
+    },
+    "bd9a8284-af42-471e-9acb-ff44ac6d669e": {
+      "name": "Metropolitan Median House Sales Q3 2023",
+      "file": "Q3_2023.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/bd9a8284-af42-471e-9acb-ff44ac6d669e/download/lsg_stats_2023_q3.xlsx",
+      "modified": "2023-10-12T03:58:56.195360"
+    },
+    "61b6356e-3a43-4e7a-bc8c-d678f85d4c60": {
+      "name": "Metropolitan Median House Sales Q2 2023",
+      "file": "Q2_2023.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/61b6356e-3a43-4e7a-bc8c-d678f85d4c60/download/lsg_stats_2023_q2.xlsx",
+      "modified": "2023-07-24T00:15:59.602912"
+    },
+    "903f492e-3377-4d13-9842-65f4a68a7f92": {
+      "name": "Metropolitan Median House Sales Q1 2023",
+      "file": "Q1_2023.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/903f492e-3377-4d13-9842-65f4a68a7f92/download/lsg_stats_2023_q1.xlsx",
+      "modified": "2023-05-04T06:32:09.501005"
+    },
+    "6a7a8315-65ff-4a6f-accb-e4744de7fa1e": {
+      "name": "Metropolitan Median House Sales Q4 2022",
+      "file": "Q4_2022.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/6a7a8315-65ff-4a6f-accb-e4744de7fa1e/download/lsg_stats_2022_q4.xlsx",
+      "modified": "2023-02-06T04:50:23.429915"
+    },
+    "0ce6cd95-783a-499a-bdca-5d4cababedc8": {
+      "name": "Metropolitan Median House Sales Q3 2022",
+      "file": "Q3_2022.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/0ce6cd95-783a-499a-bdca-5d4cababedc8/download/lsg_stats_2022_q3.xlsx",
+      "modified": "2022-10-20T00:25:15.335268"
+    },
+    "c2b2326f-d765-4729-a1b9-52b74c4c6559": {
+      "name": "Metropolitan Median House Sales Q2 2022",
+      "file": "Q2_2022.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/c2b2326f-d765-4729-a1b9-52b74c4c6559/download/lsg_stats_2022_q2.xlsx",
+      "modified": "2022-07-21T05:45:47.897107"
+    },
+    "ecefdaca-2bb3-41af-bc7e-c9e0c54dcff7": {
+      "name": "Metropolitan Median House Sales Q1 2022",
+      "file": "Q1_2022.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/ecefdaca-2bb3-41af-bc7e-c9e0c54dcff7/download/lsg_stats_2022_q1.xlsx",
+      "modified": "2022-04-26T06:57:14.184929"
+    },
+    "55533b1d-5a77-429a-a107-00a24c4d935a": {
+      "name": "Metropolitan Median House Sales Q4 2021",
+      "file": "Q4_2021.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/55533b1d-5a77-429a-a107-00a24c4d935a/download/lsg_stats_2021_q4.xlsx",
+      "modified": "2022-01-27T21:51:49.581964"
+    },
+    "2a33d752-faaa-4845-9e8e-ef1db2d9cbb0": {
+      "name": "Metropolitan Median House Sales Q3 2021",
+      "file": "Q3_2021.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/2a33d752-faaa-4845-9e8e-ef1db2d9cbb0/download/lsg_stats_2021_q3.xlsx",
+      "modified": "2021-10-22T06:13:12.248712"
+    },
+    "5f4a9e5f-3504-456b-8e7a-9ad433720424": {
+      "name": "Metropolitan Median House Sales Q2 2021",
+      "file": "Q2_2021.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/5f4a9e5f-3504-456b-8e7a-9ad433720424/download/lsg_stats_2021_q2.xlsx",
+      "modified": "2021-07-20T23:19:48.236419"
+    },
+    "321777e4-6f3d-4ae6-bc2c-0d2e932df3ca": {
+      "name": "Metropolitan Median House Sales Q1 2021",
+      "file": "Q1_2021.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/321777e4-6f3d-4ae6-bc2c-0d2e932df3ca/download/lsg_stats_2021_q1.xlsx",
+      "modified": "2021-04-21T05:09:47.076341"
+    },
+    "8f2d0be3-3b36-432f-ae84-c459c3e426cc": {
+      "name": "Metropolitan Median House Sales Q4 2020",
+      "file": "Q4_2020.csv",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/8f2d0be3-3b36-432f-ae84-c459c3e426cc/download/lsg_stats_2020_q4-.csv",
+      "modified": "2021-03-02T01:04:59.561844"
+    },
+    "94aa0ead-70f7-4b0f-a2a9-fa646483ce40": {
+      "name": "Metropolitan Median House Sales Q3 2020",
+      "file": "Q3_2020.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/94aa0ead-70f7-4b0f-a2a9-fa646483ce40/download/lsg_stats_2020_q3.xlsx",
+      "modified": "2020-10-29T04:12:50.986366"
+    },
+    "35ae8793-ce1d-440a-9c0c-af6ba0297978": {
+      "name": "Metropolitan Median House Sales Q2 2020",
+      "file": "Q2_2020.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/35ae8793-ce1d-440a-9c0c-af6ba0297978/download/lsg_stats_2020_q2.xlsx",
+      "modified": "2020-08-05T00:11:56.592395"
+    },
+    "7c11abb4-42e8-4a9e-bc78-0d61a709f7df": {
+      "name": "Metropolitan Median House Sales Q1 2020",
+      "file": "Q1_2020.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/7c11abb4-42e8-4a9e-bc78-0d61a709f7df/download/copy-of-lsg_stats_2020_q1.xlsx",
+      "modified": "2020-05-07T03:47:08.030441"
+    },
+    "82ed30d2-1dae-4469-ace2-5ddaab7a8d63": {
+      "name": "Metropolitan Median House Sales Q4 2019",
+      "file": "Q4_2019.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/82ed30d2-1dae-4469-ace2-5ddaab7a8d63/download/lsg_stats_2019_q4.xlsx",
+      "modified": "2020-02-05T05:07:00.690837"
+    },
+    "d9077f5d-e005-4f93-8389-6f2759cdf7fa": {
+      "name": "Metropolitan Median House Sales Q3 2019",
+      "file": "Q3_2019.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/d9077f5d-e005-4f93-8389-6f2759cdf7fa/download/lsg_stats_2019_q3.xlsx",
+      "modified": "2019-10-23T21:57:11.154305"
+    },
+    "6722e565-2055-4459-8905-61a8c913a31a": {
+      "name": "Metropolitan Median House Sales Q2 2019",
+      "file": "Q2_2019.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/6722e565-2055-4459-8905-61a8c913a31a/download/lsg_stats_2019_q2.xlsx",
+      "modified": "2019-07-26T00:47:02.800114"
+    },
+    "f7421fe4-003f-4ac9-bd6e-92ff312d95b9": {
+      "name": "Metropolitan Median House Sales Q1 2019",
+      "file": "Q1_2019.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/f7421fe4-003f-4ac9-bd6e-92ff312d95b9/download/lsg_stats_2019_q1.xlsx",
+      "modified": "2019-04-16T05:54:43.856701"
+    },
+    "00e84d63-cc28-440a-988d-3f0ae2b997ff": {
+      "name": "Metropolitan Median House Sales Q4 2018",
+      "file": "Q4_2018.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/00e84d63-cc28-440a-988d-3f0ae2b997ff/download/lsg_stats_2018_q4.xlsx",
+      "modified": "2019-02-15T00:06:57.986042"
+    },
+    "d6e3c6ff-92cb-4b8a-95ff-45e93111c775": {
+      "name": "Metropolitan Median House Sales Q3 2018",
+      "file": "Q3_2018.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/d6e3c6ff-92cb-4b8a-95ff-45e93111c775/download/lsg_stats_2018_q3.xlsx",
+      "modified": "2018-10-22T07:06:50.985938"
+    },
+    "fd8c83c2-d832-472f-8604-885126abf71c": {
+      "name": "Metropolitan Median House Sales Q2 2018",
+      "file": "Q2_2018.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/fd8c83c2-d832-472f-8604-885126abf71c/download/lsg_stats_2018_q2.xlsx",
+      "modified": "2018-07-20T02:46:13.701593"
+    },
+    "92efbfb8-5419-4256-a05f-4738b61983a1": {
+      "name": "Metropolitan Median House Sales Q1 2018",
+      "file": "Q1_2018.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/92efbfb8-5419-4256-a05f-4738b61983a1/download/lsg_stats_2018_q1.xlsx",
+      "modified": "2018-04-23T07:01:21.312700"
+    },
+    "6f1242a2-a59f-4bad-a431-3538b0463dc2": {
+      "name": "Metropolitan Median House Sales Q4 2017",
+      "file": "Q4_2017.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/6f1242a2-a59f-4bad-a431-3538b0463dc2/download/lsg_stats_2017q4.xlsx",
+      "modified": "2018-02-11T22:45:01.911364"
+    },
+    "fe1e81bb-548d-4f50-afac-0b83d767e084": {
+      "name": "Metropolitan Median House Sales Q3 2017",
+      "file": "Q3_2017.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/fe1e81bb-548d-4f50-afac-0b83d767e084/download/metro-median-house-sales-q3-2017.xlsx",
+      "modified": "2017-10-26T05:33:37.107414"
+    },
+    "76ffdab2-8985-42e5-9de3-a94cd6176138": {
+      "name": "Metropolitan Median House Sales Q2 2017",
+      "file": "Q2_2017.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/76ffdab2-8985-42e5-9de3-a94cd6176138/download/lsgstats2017q2.xlsx",
+      "modified": "2017-08-02T00:12:15.293491"
+    },
+    "6b6089a1-6892-414f-b5da-6ee62f1f6987": {
+      "name": "Metropolitan Median House Sales Q1 2017",
+      "file": "Q1_2017.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/6b6089a1-6892-414f-b5da-6ee62f1f6987/download/lsgstats2017q1.xlsx",
+      "modified": "2017-04-27T06:18:04.030462"
+    },
+    "3d52e9ce-a0cf-4aea-9be3-6419eb03de82": {
+      "name": "Metropolitan Median House Sales Q4 2016",
+      "file": "Q4_2016.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/3d52e9ce-a0cf-4aea-9be3-6419eb03de82/download/lsgstats2016q4.xlsx",
+      "modified": "2017-01-24T03:20:47.861655"
+    },
+    "8ab56b1e-29fb-4772-be52-fd69be1f72ca": {
+      "name": "Metropolitan Median House Sales Q3 2016",
+      "file": "Q3_2016.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/8ab56b1e-29fb-4772-be52-fd69be1f72ca/download/metromedianhousesales2016q3.xlsx",
+      "modified": "2016-10-31T06:02:22.767567"
+    },
+    "93a8ae6e-b871-4bff-b1dc-64476192aa55": {
+      "name": "Metropolitan Median House Sales Q2 2016",
+      "file": "Q2_2016.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/93a8ae6e-b871-4bff-b1dc-64476192aa55/download/lsgstats2016q2.xlsx",
+      "modified": "2016-08-03T06:54:13.267370"
+    },
+    "be8c7768-01cb-49f2-a136-23da75500208": {
+      "name": "Metropolitan Median House Sales Q1 2016",
+      "file": "Q1_2016.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/be8c7768-01cb-49f2-a136-23da75500208/download/lsgstats-2016q1.xlsx",
+      "modified": "2016-04-18T21:47:17.773630"
+    },
+    "b2d77019-7ab9-4fbf-bfa0-208408b8d9a7": {
+      "name": "Metropolitan Median House Sales Q4 2015",
+      "file": "Q4_2015.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/b2d77019-7ab9-4fbf-bfa0-208408b8d9a7/download/cdata.salsgstats-2015q4.xlsx",
+      "modified": "2016-01-13T04:57:14.295295"
+    },
+    "f9e6b06c-a337-4a3d-a6ec-c6e250f693e2": {
+      "name": "Metropolitan Median House Sales Q3 2015",
+      "file": "Q3_2015.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/f9e6b06c-a337-4a3d-a6ec-c6e250f693e2/download/lsgstats2015q3.xlsx",
+      "modified": "2021-03-02T01:04:59.653139"
+    },
+    "c507968a-afff-4889-9e6d-9025087e8ca4": {
+      "name": "Metropolitan Median House Sales Q2 2015",
+      "file": "Q2_2015.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/c507968a-afff-4889-9e6d-9025087e8ca4/download/metromediumhousesales20152q.xlsx",
+      "modified": "2021-03-02T01:04:59.653278"
+    },
+    "84161cf1-fa29-45a2-9ef8-7e8da286e281": {
+      "name": "Metropolitan Median House Sales Q1 2015",
+      "file": "Q1_2015.xlsx",
+      "url": "https://data.sa.gov.au/data/dataset/0d447195-1158-4a3c-8cc7-0e333b87eb72/resource/84161cf1-fa29-45a2-9ef8-7e8da286e281/download/lsgstats-2015q1.xlsx",
+      "modified": "2016-07-19T23:28:04.328779"
+    }
+  },
+  "datasetModified": "2026-10-14T00:26:42.257470"
+}

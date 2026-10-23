@@ -1,0 +1,57 @@
+name: Refresh data
+
+# Checks data.sa.gov.au for new or revised quarterly releases. When anything changes, the
+# rebuilt dataset is committed to main and Vercel redeploys the dashboard automatically.
+on:
+  schedule:
+    - cron: '30 20 * * *' # daily, 07:00 Adelaide time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch and rebuild dataset
+        run: npm run data
+
+      - name: Check the site still builds
+        run: npm run build
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- public/data data; then
+            echo "No new data."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data data
+          latest=$(node -p "require('./public/data/sales.json').latestQuarter")
+          git commit -m "data: refresh from data.sa.gov.au (latest ${latest})"
+          git push
+
+      # GitHub pauses scheduled workflows after 60 days without repo activity, and new releases
+      # only arrive quarterly. Re-enabling the workflow each run keeps the schedule alive.
+      - name: Keep schedule alive
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/refresh-data.yml/enable" || true

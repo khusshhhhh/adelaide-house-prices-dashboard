@@ -1,0 +1,28 @@
+{
+  "name": "adelaide-house-sales-dashboard",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Self-updating dashboard of Adelaide metropolitan median house sales, built from the SA Government open data portal.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "data": "node scripts/update-data.mjs",
+    "geo": "node scripts/build-geo.mjs"
+  },
+  "dependencies": {
+    "echarts": "^5.6.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "exceljs": "^4.4.0",
+    "mapshaper": "^0.6.102",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.7"
+  }
+}
