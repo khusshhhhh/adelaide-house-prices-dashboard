@@ -4,3 +4,6 @@ dist/
 .claude/
 *.log
 .DS_Store
+
+.vercel
+.env*
